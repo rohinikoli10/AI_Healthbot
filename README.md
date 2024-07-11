@@ -28,3 +28,15 @@ This project implements a Smart Health Chatbot that predicts diseases based on s
 - xgboost
 - lightgbm
 - catboost
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/rohinikoli10/AI_Healthbot.git
+
+   cd smart-health-chatbot
+
+
+
